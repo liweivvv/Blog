@@ -5,4 +5,4 @@ nav:
 
 ## Welcome ~
 
-Please go to interview part and javascript part first~
+Please go to Java part first~
